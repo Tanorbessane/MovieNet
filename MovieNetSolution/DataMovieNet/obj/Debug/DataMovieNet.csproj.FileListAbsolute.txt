@@ -1,0 +1,12 @@
+C:\Users\ta013be\Desktop\ETNA_Master\_Projet_ETNA\IDV\NET4\Movie.net\MovieNetSolution\DataMovieNet\bin\Debug\DataMovieNet.exe.config
+C:\Users\ta013be\Desktop\ETNA_Master\_Projet_ETNA\IDV\NET4\Movie.net\MovieNetSolution\DataMovieNet\bin\Debug\DataMovieNet.exe
+C:\Users\ta013be\Desktop\ETNA_Master\_Projet_ETNA\IDV\NET4\Movie.net\MovieNetSolution\DataMovieNet\bin\Debug\DataMovieNet.pdb
+C:\Users\ta013be\Desktop\ETNA_Master\_Projet_ETNA\IDV\NET4\Movie.net\MovieNetSolution\DataMovieNet\obj\Debug\DataMovieNet.csproj.CoreCompileInputs.cache
+C:\Users\ta013be\Desktop\ETNA_Master\_Projet_ETNA\IDV\NET4\Movie.net\MovieNetSolution\DataMovieNet\obj\Debug\DataMovieNet.exe
+C:\Users\ta013be\Desktop\ETNA_Master\_Projet_ETNA\IDV\NET4\Movie.net\MovieNetSolution\DataMovieNet\obj\Debug\DataMovieNet.pdb
+F:\NET4\Movie.net\MovieNetSolution\DataMovieNet\bin\Debug\DataMovieNet.exe.config
+F:\NET4\Movie.net\MovieNetSolution\DataMovieNet\bin\Debug\DataMovieNet.exe
+F:\NET4\Movie.net\MovieNetSolution\DataMovieNet\bin\Debug\DataMovieNet.pdb
+F:\NET4\Movie.net\MovieNetSolution\DataMovieNet\obj\Debug\DataMovieNet.csproj.CoreCompileInputs.cache
+F:\NET4\Movie.net\MovieNetSolution\DataMovieNet\obj\Debug\DataMovieNet.exe
+F:\NET4\Movie.net\MovieNetSolution\DataMovieNet\obj\Debug\DataMovieNet.pdb
